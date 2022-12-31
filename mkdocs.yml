@@ -1,0 +1,6 @@
+site_name: My Mkdocs
+site_url: https://jorgelgpz.github.io/mkdocs1
+dev_addr: 0.0.0.0:8000
+
+theme:
+  name: material
